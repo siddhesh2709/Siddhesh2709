@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Avhad</h1>
-<h3 align="center">A passionate frontend developer from India** specializing in creating engaging, user-friendly web experiences.</h3>
+<h3 align="center">A full-stack MERN developer with strong foundation in cloud infrastructure. Proven ability to contribute to
+open-source projects and build impactful applications
+I am passionate about building scalable, secure, and efficient cloud solutions..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh2709&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh2709" /> </p>
 
